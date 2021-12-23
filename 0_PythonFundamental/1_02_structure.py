@@ -7,4 +7,4 @@ bilangan1 = 5
 bilangan2 = 10
 kalimat1 = "Belajar Bahasa Python"
 # Operators
-print(bilangan1+ bilangan2)
+print(bilangan1 + bilangan2)
