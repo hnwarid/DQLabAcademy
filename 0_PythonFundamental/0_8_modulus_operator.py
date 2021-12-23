@@ -1,11 +1,11 @@
-c = 10
-d = 5
+c=10
+d=5
 
-modulus = c % d
-print("Hasil modulus", modulus)
+modulus=c%d
+print("Hasil modulus",modulus)
 
-c = 10
-d = 3
+c=10
+d=3
 
-modulus = c % d
-print("Hasil modulus", modulus)
+modulus=c%d
+print("Hasil modulus",modulus)

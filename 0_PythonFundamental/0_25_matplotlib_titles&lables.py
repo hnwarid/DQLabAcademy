@@ -6,8 +6,8 @@ table = pd.read_csv("https://storage.googleapis.com/dqlab-dataset/penduduk_gende
 table.head()
 
 x_label = table['NAMA KELURAHAN']
-plt.bar(x=np.arange(len(x_label)), height=table['LAKI-LAKI WNI'])
-plt.xticks(np.arange(len(x_label)), table['NAMA KELURAHAN'], rotation=90)
+plt.bar(x=np.arange(len(x_label)), height = table['LAKI-LAKI WNI'])
+plt.xticks(np.arange(len(x_label)), table['NAMA KELURAHAN'], rotation = 90)
 plt.xlabel('Kelurahan di Jakarta Pusat')
 plt.ylabel('Jumlah Penduduk Laki-laki')
 plt.title('Persebaran Jumlah Penduduk Laki-laki di Jakarta Pusat')
