@@ -14,4 +14,3 @@ with closing(requests.get(url, stream=True)) as r:
     # membaca baris per baris
     for row in reader:
         print(row)
-
