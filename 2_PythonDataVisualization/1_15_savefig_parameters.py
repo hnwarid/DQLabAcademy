@@ -18,3 +18,5 @@ plt.yticks(labels, (labels/1000000000).astype(int))
 plt.text(0.45,0.72, 'The GMV increased significantly on October 2019', transform=fig.transFigure, color='red')
 plt.savefig('monthly_gmv.png', quality=95)
 plt.show()
+# MatplotlibDeprecationWarning: savefig() got unexpected keyword argument "quality" which is no longer supported as of 3.3 and will become an error two minor releases later
+#   plt.savefig('monthly_gmv.png', quality=95)
