@@ -8,4 +8,4 @@ This folder contains these course modules:<br>
 04 Data Manipulation with Pandas - Part 2 <a href="https://academy.dqlab.id/certificate/pdf/DQLABINTP1SMVEBV">cert</a> <br>
 05 Statistic using Python for Data Science - Part 1 <a href="https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20GBGWLN">cert</a> <br>
 06 Statistic using Python for Data Science - Part 2 <a href="https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20QGOCJT">cert</a> <br>
-07 Machine Learning With Python for Beginner <a href="yet">cert</a> <br>
+07 Machine Learning With Python for Beginner <a href="https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2SWUNKM">cert</a> <br>
