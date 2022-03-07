@@ -1,7 +1,7 @@
 This folder contains these course modules:<br>
 
 1 Basic Feature Discovering for Machine Learning
- <a href="link">cert</a> <br>
+ <a href="https://academy.dqlab.id/certificate/pdf/DQLABFATPYTOWPPM">cert</a> <br>
 2 Data Science in Telco: Data Cleansing
  <a href="link">cert</a> <br>
 3 Customer Churn Prediction using Machine Learning
